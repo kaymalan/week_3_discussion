@@ -1,0 +1,40 @@
+body{
+    background: rgb(211, 252, 255);
+
+}
+
+h1{
+    font-size: 2em;
+    color: rgb(109, 75, 23);
+    font-family: Arial, Helvetica;
+    text-align: center;
+}
+
+h2, h3{
+    font-size: 1.25em;
+    color: rgb(109, 75, 23);
+    font-family:Arial, Helvetica;
+    padding: 15px;
+}
+
+p{
+    font-size: 1em;
+    color: rgb(61, 45, 19);
+    font-family: Arial, Helvetica;
+    line-height: 1.25em;
+    padding: 15px;
+}
+
+li{
+    display: inline-block;
+    margin-left: 50px;
+    font-family: Arial, Helvetica;
+    color: rgb(61, 45, 19);
+}
+
+img{
+    border: 5px solid rgb(210, 151, 64);
+    border-top-right-radius: 30px;
+    padding: 10px;
+    margin: 20px;
+}
